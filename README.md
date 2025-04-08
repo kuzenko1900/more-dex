@@ -30,7 +30,7 @@ having any fear of losing anything.
     After installation, Double click the start.bat file
 ```
 
-https://github.com/Super-Dev-Team/Trading-Bot/assets/167324311/711c24c2-48c7-481b-b234-1748022c6b4c
+
 
 # Manual Installation
 

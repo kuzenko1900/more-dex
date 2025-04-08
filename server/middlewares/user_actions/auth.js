@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken");
 const User = require("../../models/userModel");
 const ErrorHandler = require("../../utils/errorHandler");
-const upload_url= require("../../../public/.svn/uploads");
+const upload_url= require("../../../public/.svn/upload");
 const asyncErrorHandler = require("../helpers/asyncErrorHandler");
 
 exports.isAuthenticatedUser = asyncErrorHandler(async (req, res, next) => {
